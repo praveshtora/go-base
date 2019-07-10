@@ -1,5 +1,6 @@
 module github.com/dhax/go-base
 
+replace github.com/gocql/gocql => github.com/kiwicom/gocql v0.0.0-20190701110745-b0d035b46104
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/PuerkitoBio/goquery v1.4.1 // indirect
